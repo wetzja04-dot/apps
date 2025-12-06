@@ -18,7 +18,7 @@
   "dependencies": {
     "@polkadot/hw-ledger": "^13.5.6",
     "@polkadot/phishing": "^0.25.20",
-    "@polkadot/react-components": "^0.166.2-7-x",
+    "@polkadot/react-components": "^0.34.1",
     "@polkadot/react-hooks": "^0.166.2-7-x",
     "@polkadot/util": "^13.5.6",
     "@polkadot/vanitygen": "^0.63.16",
